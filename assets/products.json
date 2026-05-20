@@ -1,0 +1,327 @@
+[
+  {
+    "slug": "retatrutide",
+    "name": "Retatrutide",
+    "tag": "Wellness Optimization",
+    "price": 249,
+    "oldPrice": 289,
+    "rating": "4.9",
+    "reviews": 187,
+    "pillStrength": "5 mg/ml",
+    "volume": "3 ml",
+    "shortDesc": "A next-generation wellness support formula designed for individuals focused on advanced lifestyle optimization, performance, and modern wellness innovation.",
+    "fullDesc": [
+      "Retatrutide is engineered as a next-generation wellness support formula for individuals who pursue advanced lifestyle optimization. Each Omavi pen is pre-mixed and ready to deliver precision dosing with no preparation, no calibration, and zero compromise on consistency.",
+      "Designed with modern wellness innovation in mind, Retatrutide is part of the Omavi performance line — created for those who hold themselves to a higher standard of recovery, vitality, and longevity."
+    ],
+    "benefits": [
+      {
+        "ic": "spark",
+        "t": "Advanced Metabolic Support",
+        "d": "Supports modern metabolic balance as part of a holistic wellness protocol."
+      },
+      {
+        "ic": "pulse",
+        "t": "Performance Optimization",
+        "d": "Formulated for individuals focused on high-performance lifestyle goals."
+      },
+      {
+        "ic": "leaf",
+        "t": "Lifestyle Innovation",
+        "d": "A next-generation companion designed around modern wellness routines."
+      },
+      {
+        "ic": "shield",
+        "t": "Clinical-Grade Quality",
+        "d": "Manufactured under strict purity, stability, and consistency standards."
+      }
+    ],
+    "specs": {
+      "Peptide": "Retatrutide",
+      "Concentration": "5 mg/ml",
+      "Pen Volume": "3 ml",
+      "Dose Precision": "± 0.05 ml",
+      "Form": "Pre-mixed liquid",
+      "Storage": "2–8°C refrigerated",
+      "Shelf Life": "12 months sealed",
+      "Origin": "Lab-tested, GMP-certified"
+    },
+    "protocol": [
+      {
+        "n": "01",
+        "t": "Wash and Sterilize",
+        "d": "Wash hands thoroughly and disinfect the injection site."
+      },
+      {
+        "n": "02",
+        "t": "Prepare the Pen",
+        "d": "Attach a new sterile needle and prime per the included instructions."
+      },
+      {
+        "n": "03",
+        "t": "Administer & Rotate",
+        "d": "Inject subcutaneously and rotate the site each application."
+      }
+    ]
+  },
+  {
+    "slug": "bpc-157-tb-500",
+    "name": "BPC-157 + TB-500",
+    "tag": "Recovery & Mobility",
+    "price": 199,
+    "oldPrice": 229,
+    "rating": "5.0",
+    "reviews": 234,
+    "pillStrength": "5 + 5 mg/ml",
+    "volume": "3 ml",
+    "shortDesc": "An advanced recovery-focused wellness blend created for active lifestyles and modern recovery support.",
+    "fullDesc": [
+      "A dual-peptide wellness formula combining BPC-157 and TB-500 — Omavi's most-requested recovery and mobility blend. Built for active lifestyles, this pre-mixed pen is engineered for individuals who refuse to compromise on their recovery routine.",
+      "Each pen delivers precise dosing of both peptides in stabilized form, removing the guesswork from advanced recovery protocols. Like all Omavi products, it ships cold-chain protected to guarantee freshness."
+    ],
+    "benefits": [
+      {
+        "ic": "spark",
+        "t": "Recovery Support",
+        "d": "Built around a modern recovery-first wellness philosophy."
+      },
+      {
+        "ic": "pulse",
+        "t": "Mobility-Focused",
+        "d": "Designed for active individuals who depend on consistent mobility."
+      },
+      {
+        "ic": "leaf",
+        "t": "Dual-Peptide Formula",
+        "d": "Stabilized BPC-157 + TB-500 in a single precision pen."
+      },
+      {
+        "ic": "shield",
+        "t": "Active Lifestyle",
+        "d": "Engineered for performance-focused recovery routines."
+      }
+    ],
+    "specs": {
+      "Peptide": "BPC-157 + TB-500",
+      "Concentration": "5 mg/ml each",
+      "Pen Volume": "3 ml",
+      "Dose Precision": "± 0.05 ml",
+      "Form": "Pre-mixed liquid",
+      "Storage": "2–8°C refrigerated",
+      "Shelf Life": "12 months sealed",
+      "Origin": "Lab-tested, GMP-certified"
+    },
+    "protocol": [
+      {
+        "n": "01",
+        "t": "Wash and Sterilize",
+        "d": "Wash hands thoroughly and disinfect the injection site."
+      },
+      {
+        "n": "02",
+        "t": "Prepare the Pen",
+        "d": "Attach a new sterile needle and prime per the included instructions."
+      },
+      {
+        "n": "03",
+        "t": "Administer & Rotate",
+        "d": "Inject subcutaneously and rotate the site each application."
+      }
+    ]
+  },
+  {
+    "slug": "mots-c",
+    "name": "MOTS-c",
+    "tag": "Energy & Endurance",
+    "price": 179,
+    "oldPrice": 209,
+    "rating": "4.8",
+    "reviews": 156,
+    "pillStrength": "10 mg/ml",
+    "volume": "2 ml",
+    "shortDesc": "A futuristic wellness support formula inspired by modern performance science, designed for energy optimization and endurance support.",
+    "fullDesc": [
+      "MOTS-c is part of Omavi's performance-science line — a peptide formula designed around modern energy and endurance support. Pre-mixed for precision and stability, it removes the friction of traditional protocols.",
+      "Engineered for individuals who push their day-to-day boundaries, MOTS-c is a foundational pen in the Omavi endurance and metabolic-support family."
+    ],
+    "benefits": [
+      {
+        "ic": "spark",
+        "t": "Energy Optimization",
+        "d": "A performance-inspired wellness formula for modern routines."
+      },
+      {
+        "ic": "pulse",
+        "t": "Endurance Support",
+        "d": "Designed for individuals with high-output lifestyles."
+      },
+      {
+        "ic": "leaf",
+        "t": "Mitochondrial Science",
+        "d": "Inspired by leading-edge metabolic wellness research."
+      },
+      {
+        "ic": "shield",
+        "t": "Stable Formulation",
+        "d": "Pre-mixed for consistent, precise dosing every use."
+      }
+    ],
+    "specs": {
+      "Peptide": "MOTS-c",
+      "Concentration": "10 mg/ml",
+      "Pen Volume": "2 ml",
+      "Dose Precision": "± 0.05 ml",
+      "Form": "Pre-mixed liquid",
+      "Storage": "2–8°C refrigerated",
+      "Shelf Life": "12 months sealed",
+      "Origin": "Lab-tested, GMP-certified"
+    },
+    "protocol": [
+      {
+        "n": "01",
+        "t": "Wash and Sterilize",
+        "d": "Wash hands thoroughly and disinfect the injection site."
+      },
+      {
+        "n": "02",
+        "t": "Prepare the Pen",
+        "d": "Attach a new sterile needle and prime per the included instructions."
+      },
+      {
+        "n": "03",
+        "t": "Administer & Rotate",
+        "d": "Inject subcutaneously and rotate the site each application."
+      }
+    ]
+  },
+  {
+    "slug": "ghk-cu",
+    "name": "GHK-Cu",
+    "tag": "Rejuvenation & Anti-Aging",
+    "price": 159,
+    "oldPrice": 189,
+    "rating": "4.9",
+    "reviews": 312,
+    "pillStrength": "50 mg/ml",
+    "volume": "2 ml",
+    "shortDesc": "A premium wellness and rejuvenation-focused formula developed with a modern scientific approach.",
+    "fullDesc": [
+      "GHK-Cu is part of Omavi's rejuvenation line — engineered around a modern, science-inspired wellness philosophy. Each pen delivers precision dosing with the stability and convenience the Omavi pen system is known for.",
+      "Designed for individuals focused on rejuvenation and modern wellness aesthetics, GHK-Cu integrates seamlessly into a longevity-first lifestyle routine."
+    ],
+    "benefits": [
+      {
+        "ic": "spark",
+        "t": "Rejuvenation Support",
+        "d": "A modern wellness companion focused on rejuvenation."
+      },
+      {
+        "ic": "pulse",
+        "t": "Premium Formulation",
+        "d": "Stabilized peptide formulation engineered for quality."
+      },
+      {
+        "ic": "leaf",
+        "t": "Science-Forward",
+        "d": "Designed around contemporary wellness science principles."
+      },
+      {
+        "ic": "shield",
+        "t": "Aesthetic Wellness",
+        "d": "Part of the modern longevity and aesthetics line."
+      }
+    ],
+    "specs": {
+      "Peptide": "GHK-Cu",
+      "Concentration": "50 mg/ml",
+      "Pen Volume": "2 ml",
+      "Dose Precision": "± 0.05 ml",
+      "Form": "Pre-mixed liquid",
+      "Storage": "2–8°C refrigerated",
+      "Shelf Life": "12 months sealed",
+      "Origin": "Lab-tested, GMP-certified"
+    },
+    "protocol": [
+      {
+        "n": "01",
+        "t": "Wash and Sterilize",
+        "d": "Wash hands thoroughly and disinfect the injection site."
+      },
+      {
+        "n": "02",
+        "t": "Prepare the Pen",
+        "d": "Attach a new sterile needle and prime per the included instructions."
+      },
+      {
+        "n": "03",
+        "t": "Administer & Rotate",
+        "d": "Inject subcutaneously and rotate the site each application."
+      }
+    ]
+  },
+  {
+    "slug": "nad-plus",
+    "name": "NAD+",
+    "tag": "Cellular Vitality",
+    "price": 189,
+    "oldPrice": 219,
+    "rating": "4.9",
+    "reviews": 268,
+    "pillStrength": "100 mg/ml",
+    "volume": "3 ml",
+    "shortDesc": "A modern cellular wellness support formula created for energy, vitality, recovery, and long-term performance optimization.",
+    "fullDesc": [
+      "NAD+ is part of Omavi's cellular wellness line — designed for individuals focused on long-term vitality, sustainable energy, and performance optimization. Pre-mixed and stabilized for consistent dosing in every pen.",
+      "A foundational pen in the Omavi longevity protocol, NAD+ offers a clinically clean experience for users who prioritize precision and reliability above all else."
+    ],
+    "benefits": [
+      {
+        "ic": "spark",
+        "t": "Cellular Vitality",
+        "d": "A modern wellness foundation for cellular-level optimization."
+      },
+      {
+        "ic": "pulse",
+        "t": "Sustained Energy",
+        "d": "Designed for steady, day-long wellness support."
+      },
+      {
+        "ic": "leaf",
+        "t": "Longevity-First",
+        "d": "Engineered for individuals focused on long-term performance."
+      },
+      {
+        "ic": "shield",
+        "t": "Stable Formula",
+        "d": "Stabilized pre-mixed dosing — no preparation required."
+      }
+    ],
+    "specs": {
+      "Peptide": "NAD+",
+      "Concentration": "100 mg/ml",
+      "Pen Volume": "3 ml",
+      "Dose Precision": "± 0.05 ml",
+      "Form": "Pre-mixed liquid",
+      "Storage": "2–8°C refrigerated",
+      "Shelf Life": "12 months sealed",
+      "Origin": "Lab-tested, GMP-certified"
+    },
+    "protocol": [
+      {
+        "n": "01",
+        "t": "Wash and Sterilize",
+        "d": "Wash hands thoroughly and disinfect the injection site."
+      },
+      {
+        "n": "02",
+        "t": "Prepare the Pen",
+        "d": "Attach a new sterile needle and prime per the included instructions."
+      },
+      {
+        "n": "03",
+        "t": "Administer & Rotate",
+        "d": "Inject subcutaneously and rotate the site each application."
+      }
+    ]
+  }
+]
